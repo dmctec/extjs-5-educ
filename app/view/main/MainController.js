@@ -1,38 +1,55 @@
-/**
- * This class is the main view for the application. It is specified in app.js as the
- * "autoCreateViewport" property. That setting automatically applies the "viewport"
- * plugin to promote that instance of this class to the body element.
- *
- * TODO - Replace this content of this view to suite the needs of your application.
- */
 Ext.define('Demo.view.main.MainController', {
-    extend: 'Ext.app.ViewController',
+	extend: 'Ext.app.ViewController',
 
-    requires: [
-        'Ext.window.MessageBox'
-    ],
+     config: {
+         control: {
+             'app-main  treepanel': {
+                 rowdblclick: 'onPanelRendered'
+             }
+          }
+     },
 
-    alias: 'controller.main',
+	requires: [
+		'Ext.window.MessageBox'
+	],
 
-    onClickButton: function () {
-        Ext.Msg.confirm('Confirm', 'Are you sure?', 'onConfirm', this);
+	alias: 'controller.main',
+
+	onPanelRendered: function(row, record, tr, rowIndex, e, eOpts) {
+		var painel = Ext.getCmp('painel');
+		var tab = record.data.tab;
+		if(Ext.getCmp('tab'+tab) == undefined)
+		{
+			painel.add({
+				title: tab,
+				id: 'tab'+tab,
+				closable: true,
+				xtype: tab.toLowerCase()
+			});
+			painel.getLayout().setActiveItem('tab'+tab);
+		}
+		else
+			painel.getLayout().setActiveItem('tab'+tab);
     },
 
-    onConfirm: function (choice) {
-        if (choice === 'yes') {
-            //
-        }
-    },
+	onClickButton: function () {
+		Ext.Msg.confirm('Confirm', 'Are you sure?', 'onConfirm', this);
+	},
 
-    onBeforeRenderMenu: function(menu, eOpts){
-        Ext.Ajax.request({
-            url: 'php/menu/menu.php',
-            success: function(response){
-                var obj = Ext.JSON.decode(response.responseText);
-                console.log(obj);
-                menu.add(obj);
-            }
-        });
-    }
+	onConfirm: function (choice) {
+		if (choice === 'yes') {
+			//
+		}
+	},
+
+	onBeforeRenderMenu: function(menu, eOpts){
+		Ext.Ajax.request({
+			url: 'php/menu/menu.php',
+			success: function(response){
+				var obj = Ext.JSON.decode(response.responseText);
+				menu.add(obj);
+			}
+		});
+	}
 
 });

@@ -9,7 +9,9 @@ Ext.define('Demo.view.main.Main', {
     extend: 'Ext.container.Container',
     requires: [
         'Demo.view.main.MainController',
-        'Demo.view.main.MainModel'
+        'Demo.view.main.MainModel',
+        'Demo.view.pessoas.PessoasController',
+        'Demo.view.pessoas.Pessoas'
     ],
 
     xtype: 'app-main',
@@ -28,6 +30,7 @@ Ext.define('Demo.view.main.Main', {
             xtype: 'panel',
             region: 'west',
             bodyStyle: 'background:#dfeaf2; padding:5px;',
+            id: 'menu',
             width: 200,
             collapsible: true,
             bind: {
@@ -43,10 +46,14 @@ Ext.define('Demo.view.main.Main', {
         {
             region: 'center',
             xtype: 'tabpanel',
-            items:[{
-                title: 'Sumário',
-                html: '<br><br><br><center><h2>Conteúdo</h2>'
-            }]
+            id: 'painel',
+            items:
+            [
+                {
+                    title: 'Sumário',
+                    html: '<br><br><br><center><h2>Conteúdo</h2>'
+                }
+            ]
         }
     ]
 
