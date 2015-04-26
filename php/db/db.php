@@ -2,9 +2,9 @@
 
 // variaveis
 $server = "localhost";
-$user = "signaltrack";
-$pass = "a9DWHUgBum";
-$dbName = "signaltrack";
+$user = "root";
+$pass = "";
+$dbName = "extjs";
 
 // trata variaveis
 $mysqli = new mysqli($server, $user, $pass, $dbName);

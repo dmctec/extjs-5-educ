@@ -9,7 +9,7 @@ Ext.define('Demo.Application', {
     name: 'Demo',
 
     stores: [
-        // TODO: add global / shared stores here
+    	'Demo.store.Pessoa'
     ],
     
     launch: function () {
