@@ -45,6 +45,7 @@ Ext.define('Demo.view.pessoas.Pessoas', {
 	],
 	listeners:
 	{
-		itemdblclick: 'onDuploClickPessoa'
+		// itemdblclick: 'onDuploClickPessoa'
+		itemclick: 'onDuploClickPessoa'
 	}
 });

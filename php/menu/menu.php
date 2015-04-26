@@ -17,9 +17,9 @@ foreach($menu as $key => $value) {
  $menu[$key]["items"]["root"]["children"][0]["children"][0]["leaf"] = true;
  $menu[$key]["items"]["root"]["children"][0]["children"][0]["tab"] = "Pessoas";
 
- $menu[$key]["items"]["root"]["children"][0]["children"][1]["text"] = "Teste";
+ $menu[$key]["items"]["root"]["children"][0]["children"][1]["text"] = "Pessoas";
  $menu[$key]["items"]["root"]["children"][0]["children"][1]["leaf"] = true;
- $menu[$key]["items"]["root"]["children"][0]["children"][1]["leaf"] = true;
+ $menu[$key]["items"]["root"]["children"][0]["children"][1]["tab"] = "Pessoas";
 
  $menu[$key]["items"]["root"]["children"][0]["children"][2]["text"] = "Teste";
  $menu[$key]["items"]["root"]["children"][0]["children"][2]["leaf"] = true;

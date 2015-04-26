@@ -4,7 +4,8 @@ Ext.define('Demo.view.main.MainController', {
      config: {
          control: {
              'app-main  treepanel': {
-                 rowdblclick: 'onPanelRendered'
+                 // rowdblclick: 'onPanelRendered'
+                 rowclick: 'onPanelRendered'
              }
           }
      },

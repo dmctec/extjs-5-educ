@@ -4,7 +4,7 @@
 $server = "localhost";
 $user = "root";
 $pass = "";
-$dbName = "extjs";
+$dbName = "signaltrack";
 
 // trata variaveis
 $mysqli = new mysqli($server, $user, $pass, $dbName);

@@ -1,7 +1,7 @@
 Ext.define('Demo.store.Pessoa', {
 	extend: 'Ext.data.Store',
 	model: 'Demo.model.Pessoa',
-	pageSize: 30,
+	pageSize: 10,
 	remoteFilter: true,
 	autoLoad: true,
 	proxy:
