@@ -10,6 +10,7 @@ Ext.define('Demo.view.main.Main', {
     requires: [
         'Demo.view.main.MainController',
         'Demo.view.main.MainModel',
+        'Demo.view.sumario.Sumario',
         'Demo.view.pessoas.PessoasController',
         'Demo.view.pessoas.Pessoas'
     ],
@@ -50,8 +51,16 @@ Ext.define('Demo.view.main.Main', {
             items:
             [
                 {
+                    //title: 'Sumário',
+                    //html: '<br><br><br><center><h2>Conteúdo</h2>'
+
+                    // -------------------------------
+                    closable: true,
                     title: 'Sumário',
-                    html: '<br><br><br><center><h2>Conteúdo</h2>'
+                    id: 'tabSumario',
+                    xtype: 'sumario'
+                    // -------------------------------
+
                 }
             ]
         }
