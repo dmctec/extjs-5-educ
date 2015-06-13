@@ -51,6 +51,15 @@ Ext.define('Demo.view.pessoas.PessoasController', {
 		var form = win.down('form');
 
 		form.loadRecord(record);
+	},
+
+	onChangeBusca: function(txt, newValue, oldValue, eOpts)
+	{
+
+		Ext.getStore('Demo.store.Pessoa').addFilter(new Ext.util.Filter({
+			property: 'nome',
+			value: newValue
+		}));
 	}
 
 });

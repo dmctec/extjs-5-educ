@@ -33,6 +33,15 @@ Ext.define('Demo.view.pessoas.Pessoas', {
 						click: 'onClickDeletarPessoa'
 					}
 				},
+				{
+					xtype: 'textfield',
+					width: 250,
+					listeners:
+					{
+						change: 'onChangeBusca'
+					}
+
+				}
 			]
 		},
 		{
