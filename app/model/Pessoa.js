@@ -8,6 +8,6 @@ Ext.define('Demo.model.Pessoa', {
 		{ name: 'logradouro', type: 'string' },
 		{ name: 'numero', type: 'string' },
 		{ name: 'cep', type: 'string' },
-		{ name: 'complemento', type: 'string' },
+		{ name: 'complemento', type: 'string' }
 	]
 });

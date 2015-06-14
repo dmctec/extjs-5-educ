@@ -6,9 +6,9 @@ Ext.define('Demo.view.pessoas.Pessoas', {
 	store: 'Demo.store.Pessoa',
 	columns: [
 		{ text: 'Id',  dataIndex: 'id' },
-		{ text: 'Nome',  dataIndex: 'nome', flex: 1, },
+		{ text: 'Nome',  dataIndex: 'nome', flex: 1 },
 		{ text: 'CNPJ/CPF', dataIndex: 'cpfcnpj' },
-		{ text: 'Logradouro', dataIndex: 'logradouro' },
+		{ text: 'Logradouro', dataIndex: 'logradouro' }
 	],
 	dockedItems:
 	[

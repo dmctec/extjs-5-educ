@@ -5,7 +5,7 @@ Ext.define('Demo.view.pessoas.PessoasController', {
 		'Ext.window.MessageBox',
 		'Ext.toolbar.Paging',
 		'Ext.grid.plugin.RowEditing',
-		'Demo.view.pessoas.FormularioPessoa',
+		'Demo.view.pessoas.FormularioPessoa'
 	],
 
 	alias: 'controller.pessoas',

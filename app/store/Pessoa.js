@@ -14,5 +14,5 @@ Ext.define('Demo.store.Pessoa', {
 			rootProperty: 'pessoas',
 			totalProperty: 'total'
 		}
-	},	
+	}
 });

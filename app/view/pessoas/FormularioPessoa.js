@@ -56,7 +56,7 @@ Ext.define('Demo.view.pessoas.FormularioPessoa', {
 							maxLength: 14,
 							name: 'cpfcnpj',
 							fieldLabel: 'CPF/CNPJ'
-						},
+						}
 					]
 				},
 				{
@@ -78,7 +78,7 @@ Ext.define('Demo.view.pessoas.FormularioPessoa', {
 							xtype: 'textfield',
 							fieldLabel: 'Número',
 							name: 'numero',
-							allowBlank: false,
+							allowBlank: false
 						},
 						{
 							xtype: 'splitter'

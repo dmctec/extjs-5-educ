@@ -35,7 +35,7 @@ Ext.define('Demo.view.main.Main', {
             width: 200,
             collapsible: true,
             bind: {
-                title: 'Menu',
+                title: 'Menu'
             },
             layout: {
                 type: 'accordion'

@@ -1,2 +1,2 @@
 // @tag full-page
-// @require E:\Web\_demo2\app.js
+// @require E:\Web\extjs-5-educ\app.js
