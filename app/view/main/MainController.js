@@ -1,24 +1,23 @@
 Ext.define('Demo.view.main.MainController', {
 	extend: 'Ext.app.ViewController',
-
-     config: {
-         control: {
-             'app-main  treepanel': {
-                 // rowdblclick: 'onPanelRendered'
-                 rowclick: 'onPanelRendered'
-             }
-          }
-     },
-
+	alias: 'controller.main',
 	requires: [
 		'Ext.window.MessageBox'
 	],
 
-	alias: 'controller.main',
+    config: {
+        control: {
+            'app-main  treepanel': {
+                // rowdblclick: 'onPanelRendered'
+                rowclick: 'onPanelRendered'
+            }
+        }
+    },
 
 	onPanelRendered: function(row, record, tr, rowIndex, e, eOpts) {
 		var painel = Ext.getCmp('painel');
 		var tab = record.data.tab;
+		//console.log("valor>> " + tab);
 		if(Ext.getCmp('tab'+tab) == undefined)
 		{
 			painel.add({
@@ -48,6 +47,7 @@ Ext.define('Demo.view.main.MainController', {
 			url: 'php/menu/menu.php',
 			success: function(response){
 				var obj = Ext.JSON.decode(response.responseText);
+				//console.log("valor>> " + obj);
 				menu.add(obj);
 			}
 		});
