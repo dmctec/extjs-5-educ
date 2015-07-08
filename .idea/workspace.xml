@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97b5e675-642d-4c39-b904-d2b13d5298cb" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\00e26f34c4ce8f5d50315a2668c92d143270f198\File.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\00e26f34c4ce8f5d50315a2668c92d143270f198\HtmlEditor.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\11fe545ba6b6feaafec7f327c31f38a80fdd9606\SpreadsheetModel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\17c9b58d79293e6e66bc901753055cc0aaf28aee\Form.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\21d4ac6c8b49a6395dbefd69001092b28dc15b3a\CheckboxGroup.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\21d4ac6c8b49a6395dbefd69001092b28dc15b3a\FieldSet.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\2bd5e71595708c2836dc72d38ddfe65f2b6895f7\Inspector.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\33db999140786f6f59417e9bbf470680cfd8c267\Grouping.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\33db999140786f6f59417e9bbf470680cfd8c267\RowBody.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\360820b5aa06d509b7046bceffb47472a7215567\Color.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\360820b5aa06d509b7046bceffb47472a7215567\Date.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\4595a3f9d4335f64da63d215d54d77b618ed3e5d\FieldSet.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\4afb7110e465158beb01ec0cc27b4f5de8dbf066\Multi.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\58d7c6070fbc0e713fd0cda231952fc2c6c42843\BoundList.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\58d7c6070fbc0e713fd0cda231952fc2c6c42843\DropZone.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\58d7c6070fbc0e713fd0cda231952fc2c6c42843\MultiSelector.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\58facc9bd5f29ad31e08968de32e7f4aa4d1ee45\GoogleRssView.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\5a5eb8a313599dfa053a09f26ca82c91c61a93e0\Dashboard.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\5b017ab85554c0e3f2db9aee73a891e46b807df0\ButtonGroup.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\60d69c2a304789bec0dc04b946facde0010bc58d\CellEditing.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\60d69c2a304789bec0dc04b946facde0010bc58d\RowExpander.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\68dba1d331925db47b9ca08ec93211d496219685\RowExpander.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\93bff3b778df365ea1b5205fbacc69f16b8ac94e\ButtonGroup.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\94983be6b206c770e0e3d3452d00d20e3fe9d2f2\BoundList.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\9da040716effc45e73bfb59cc73249038eb06af1\Demo-all.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\9dc49a03b7ec30e80f1fecb8cdcdbfd0cac9b538\Toast.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\9e102ca7be5742773402a0176b24c6b9dc5549cb\Filters.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\b063eeb374c55f63968d63cf0d08f47534167930\Breadcrumb.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\b0900f6702d2b8402f44f8677a4815656689074c\Action.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\b0900f6702d2b8402f44f8677a4815656689074c\Check.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\b6a56b24746120e22362d5c2032bb1b2df571126\ViewDropZone.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\b778adbf46df97ae3d5a796b2d6244009a0f87cf\Grouping.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\b778adbf46df97ae3d5a796b2d6244009a0f87cf\RowBody.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\b778adbf46df97ae3d5a796b2d6244009a0f87cf\Summary.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\ba4edba78d5dac85fac46743b0dac47529d9cc87\Grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\bc98a7e490880e04cee3cf4e4ad5ef628765d2b5\Base.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\c064cc7d5426508f5831e3d7b1dfc37298a72207\Renderable.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\c1df9a7f9563cf85dee52c71934c4590a8d84139\Multi.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\c992745aadd0c781763f81156b4860049fe284b8\Color.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\c992745aadd0c781763f81156b4860049fe284b8\Date.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\cc8d219f32f0a41667164d347927da295f6d357f\Editor.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\cc8d219f32f0a41667164d347927da295f6d357f\FocusManager.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\cf6e725d26245438fddd061686c83e77786d75de\Breadcrumb.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\d0b666c0726424199f7eee080ff0bb376ea43b5f\Action.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\d0b666c0726424199f7eee080ff0bb376ea43b5f\Check.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\d0b666c0726424199f7eee080ff0bb376ea43b5f\RowNumberer.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\d0b666c0726424199f7eee080ff0bb376ea43b5f\Widget.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\dc7539abd44b55c5b79765e6b468c70ce9101c3d\SubTable.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\e595e2d1694faf19f705b98220b6c1280470d9d2\Absolute.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\e595e2d1694faf19f705b98220b6c1280470d9d2\Column.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\e595e2d1694faf19f705b98220b6c1280470d9d2\Form.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\e595e2d1694faf19f705b98220b6c1280470d9d2\Table.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\f06f43912e1597e8d9c59d80e2e0d204639f44e7\Segmented.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\f70e466acb570562642091eb27308a5316bac2e6\Checkbox.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\f70e466acb570562642091eb27308a5316bac2e6\File.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\f70e466acb570562642091eb27308a5316bac2e6\HtmlEditor.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\f70e466acb570562642091eb27308a5316bac2e6\Tag.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\fa2375e69cc870ee81eeb093bea54a0b609e559e\Checkbox.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\fa2375e69cc870ee81eeb093bea54a0b609e559e\Date.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\.sass-cache\fa2375e69cc870ee81eeb093bea54a0b609e559e\HtmlEditor.scssc" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\Demo-all.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\Demo-all_01.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\Demo-all_02.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-arrow-open-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-arrow-open.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-scroll-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-scroll-right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-split-arrow-open-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-split-arrow-open.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-split-arrow-over-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-split-arrow-over.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-split-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\breadcrumb\default-split-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-large-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-large-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-large-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-large-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-large-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-large-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-medium-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-medium-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-medium-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-medium-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-medium-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-medium-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-small-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-small-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-small-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-small-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-small-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-small-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-large-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-large-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-large-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-large-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-large-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-large-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-medium-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-medium-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-medium-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-medium-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-medium-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-medium-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-small-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-small-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-small-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-small-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-small-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\default-toolbar-small-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\grid-cell-small-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\grid-cell-small-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\grid-cell-small-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\grid-cell-small-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\grid-cell-small-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-large-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-large-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-large-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-large-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-large-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-large-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-medium-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-medium-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-medium-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-medium-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-medium-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-medium-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-small-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-small-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-small-s-arrow-b-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-small-s-arrow-b.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-small-s-arrow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\button\plain-toolbar-small-s-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\datepicker\arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\datepicker\arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\datepicker\month-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\dd\drop-add.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\dd\drop-no.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\dd\drop-yes.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\editor\tb-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\fieldset\collapse-tool.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\checkbox.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\clear-trigger-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\clear-trigger.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\date-trigger-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\date-trigger.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\exclamation.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\radio.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\search-trigger-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\search-trigger.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\spinner-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\spinner.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\tag-field-item-close.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\trigger-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\form\trigger.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\col-move-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\col-move-top.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\columns.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\dd-insert-arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\dd-insert-arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\dirty-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\dirty.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\drop-no.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\drop-yes.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\filters\equals.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\filters\find.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\filters\greater_than.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\filters\less_than.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\group-by.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\group-collapse.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\group-expand.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\hd-pop.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\hmenu-asc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\hmenu-desc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\hmenu-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\hmenu-unlock.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\page-first.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\page-last.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\page-next.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\page-prev.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\pick-button.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\grid\sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\loadmask\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\magnify.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\menu\default-checked.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\menu\default-group-checked.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\menu\default-menu-parent-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\menu\default-menu-parent.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\menu\default-scroll-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\menu\default-scroll-top.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\menu\default-unchecked.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\shared\icon-error.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\shared\icon-info.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\shared\icon-question.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\shared\icon-warning.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\sizer\e-handle.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\sizer\ne-handle.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\sizer\nw-handle.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\sizer\s-handle.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\sizer\se-handle.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\sizer\sw-handle.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\slider\slider-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\slider\slider-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\slider\slider-v-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\slider\slider-v-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab-bar\default-plain-scroll-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab-bar\default-plain-scroll-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab-bar\default-plain-scroll-right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab-bar\default-plain-scroll-top.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab-bar\default-scroll-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab-bar\default-scroll-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab-bar\default-scroll-right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab-bar\default-scroll-top.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tab\tab-default-close.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\default-more-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\default-more.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\default-scroll-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\default-scroll-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\default-scroll-right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\default-scroll-top.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\footer-more-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\footer-more.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\footer-scroll-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\toolbar\footer-scroll-right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tools\tool-sprites-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tools\tool-sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\arrows-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-above.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-add.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-append.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-below.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-between.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-between.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-no.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-no.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-over.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-under.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-under.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-yes.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\drop-yes.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-end-minus-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-end-minus.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-end-plus-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-end-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-end-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-end.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-line-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-line.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-minus-nl-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-minus-nl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-minus-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-minus.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-plus-nl-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-plus-nl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-plus-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\elbow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\folder-open-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\folder-open.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\folder-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\folder.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\leaf-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\leaf.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\tree\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\util\splitter\mini-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\util\splitter\mini-left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\util\splitter\mini-right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\util\splitter\mini-top.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\ux\dashboard\magnify.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\window\toast\fade-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\window\toast\fader.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\window\toast\icon16_error.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\development\Demo\resources\images\window\toast\icon16_info.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\temp\development\Demo\sass\Demo-all.scss" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\temp\development\Demo\sass\Demo-all.scss.tmp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Web\extjs-5-educ\build\temp\development\Demo\sass\config.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/main/MainController.js" afterPath="$PROJECT_DIR$/app/view/main/MainController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap.css" afterPath="$PROJECT_DIR$/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap.js" afterPath="$PROJECT_DIR$/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap.json" afterPath="$PROJECT_DIR$/bootstrap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/menu/menu.php" afterPath="$PROJECT_DIR$/php/menu/menu.php" />
+    </list>
+    <ignored path="extjs-5-educ.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="extjs-5-educ" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainController.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/view/main/MainController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16648531" vertical-offset="0" max-vertical-offset="1071">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/view/main/MainController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extjs-5-educ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97b5e675-642d-4c39-b904-d2b13d5298cb" name="Default" comment="" />
+      <created>1436368007496</created>
+      <option name="number" value="Default" />
+      <updated>1436368007496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="919">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1666">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16648531" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

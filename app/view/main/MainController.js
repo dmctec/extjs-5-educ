@@ -2,7 +2,8 @@ Ext.define('Demo.view.main.MainController', {
 	extend: 'Ext.app.ViewController',
 	alias: 'controller.main',
 	requires: [
-		'Ext.window.MessageBox'
+		'Ext.window.MessageBox',
+		'Ext.tree.Panel'
 	],
 
     config: {
